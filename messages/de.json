@@ -1,0 +1,20 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "docs": "Dokumentation",
+    "firebase": "Firebase",
+    "tailwind": "Tailwind",
+    "examples": "Beispiele"
+  },
+  "home": {
+    "title": "Next.js + Firebase + Tailwind CSS",
+    "editText": "Beginnen Sie mit der Bearbeitung",
+    "learnMore": "Erfahren Sie mehr über {framework}",
+    "features": {
+      "docs": "Finden Sie ausführliche Informationen zu Next.js-Funktionen und API.",
+      "firebase": "Lernen Sie Firebase-Dienste und -Funktionen kennen.",
+      "tailwind": "Erkunden Sie die Tailwind CSS-Dokumentation.",
+      "examples": "Entdecken Sie Beispielprojekte mit diesen Technologien."
+    }
+  }
+}
